@@ -6,7 +6,7 @@ TunePeg was the world's first fully autonomous guitar tuning machine, embedded i
 
 ## Achievements
 
-- CES 'Best of Show' Award
+- Best of Show, Newstips Cherry Picks event at CES 2008
 - Commercial success with Gibson
 - Sub-degree rotation accuracy with <30g device
 - Developed new MIM-based micro gear manufacturing
